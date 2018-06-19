@@ -5,3 +5,10 @@ This is the repository for Group 1, covering the topic of *Dark Matter in Cosmol
 In particular, for information about the scripts, [see here](https://github.com/bradkav/GRAPPA_Student_Seminar_2018/wiki/Scripts).
 
 Use the `review/` folder for the LaTeX files for your review and the `scripts/` folder for your code.
+
+-----------------
+
+### Comments
+
+* Add a section on possible particle physics solutions to the 'Cracks in LCDM' (self-interacting DM, fuzzy DM, warm DM, etc.) - what simulations have been done and how do they solve these problems? [**BJK 19/06/2018**]
+* 
