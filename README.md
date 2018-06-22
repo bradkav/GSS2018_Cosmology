@@ -22,5 +22,6 @@ Use the `review/` folder for the LaTeX files for your review and the `scripts/` 
 * Improve the discussion of simulations. Make clear the physical distinction between different simulation techniques. How does SPH differ from AMR? Which other codes are used? E.g. "moving mesh" techniques? What is the state of the art? How is "sub-grid" physics included? What are the uncertainties in these "sub-grid" physics models which account for feedback?
 * Add a discussion of Big Bang Nucleosynthesis (BBN) as evidence 'against' baryonic dark matter.
 * **[22/06]** Could mention that rotation (as in, rotation curves) is observed not just in stars but also in gas (neutral hydrogen): arXiv:0810.2100
+* Smoothed particle hydrodynamics - arXiv:1007.1245
 
 Email if you need some more guidance! We can also give you some more feedback on Friday.
