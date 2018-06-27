@@ -25,3 +25,10 @@ Use the `review/` folder for the LaTeX files for your review and the `scripts/` 
 * Smoothed particle hydrodynamics - arXiv:1007.1245
 
 Email if you need some more guidance! We can also give you some more feedback on Friday.
+
+### Comments on the scripts
+
+It doesn't look like you've uploaded your scripts, so make sure you do that by the end of the course! From what we've seen in the scripts sessions so far, it looks like you're doing well, but here are a few suggestions/hints anyway:
+
+* Don't be afraid to add some markdown cells so that you can add text/latex to your notebooks. You can add explanations so that people know what you're doing and add some equations (equations of motion, hubble rate, whatever). Try to tell the story so that people can follow.
+* Try to save some figures (use `savefig` in `matplotlib`) so that people can see the plots even if they don't want to run the notebook. Similarly, if your code takes a long time to run, try to save the output (use `numpy.savetxt') so that you can load and plot the results later. That way you don't have to rerun the slow computations every time!
